@@ -1,7 +1,3 @@
-# **Historia de usuario**
-
----
-
 ### (ANVERSO)
 
 **ID:** 001 **Insertar alumno**
