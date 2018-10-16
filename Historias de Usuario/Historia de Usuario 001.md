@@ -18,4 +18,4 @@ Como usuario, deseo poder insertar un alumno
 
 &nbsp;&nbsp;&nbsp;**·** Se debe poder verificar la información insertada y rectificarla si es necesario
 
----
+
