@@ -10,7 +10,7 @@
 
 **Precondiciones**
 
-&nbsp;&nbsp;&nbsp;**1.** Cumplir los requisitos de inserción
+&nbsp;&nbsp;&nbsp;**·** Ninguna
 
 **Flujo principal:**
 
@@ -21,8 +21,6 @@
 &nbsp;&nbsp;&nbsp;**3.** Comprobación de los datos
 
 **Postcondiciones:**
-
-&nbsp;&nbsp;&nbsp;**·** Muestra los datos por pantalla para verificar si se han introducido correctamente
 
 &nbsp;&nbsp;&nbsp;**·** Confirma la inserción
 
