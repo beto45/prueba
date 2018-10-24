@@ -6,7 +6,7 @@
 
 Como usuario, deseo poder visualizar a los alumnos de forma ordenada
 
-**Prioridad:** 3
+**Prioridad:** 1
 
 ---
 
