@@ -14,6 +14,6 @@ Como usuario quiero poder buscar los datos de un Alumno
 
 ----
 
-Quiero poder buscar cualquier alumno
+··Quiero poder buscar cualquier alumno
 
 ----
