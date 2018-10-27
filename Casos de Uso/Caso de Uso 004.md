@@ -1,4 +1,4 @@
-**Eliminar alumno**
+### **Eliminar alumno**
 
 **ID**: 004
 
