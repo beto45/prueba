@@ -1,4 +1,4 @@
-**(ANVERSO)**
+### **(ANVERSO)**
 
 **ID**: 004 Eliminar Alumno
 
@@ -10,7 +10,7 @@ Como usuario quiero poder eliminar los datos de un Alumno
 
 ---
 
-**(REVERSO)**
+### **(REVERSO)**
 
 ---
 

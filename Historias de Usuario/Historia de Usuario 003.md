@@ -1,4 +1,4 @@
-**(ANVERSO)**
+### **(ANVERSO)**
 
 **ID**: 003 **Buscar Alumno**
 
@@ -10,7 +10,7 @@ Como usuario quiero poder buscar los datos de un Alumno
 
 ----
 
-**(REVERSO)**
+### **(REVERSO)**
 
 ----
 

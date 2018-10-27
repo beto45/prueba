@@ -1,5 +1,5 @@
 
-**Buscar alumno**
+### **Buscar alumno**
 
 **ID**: 003
 
