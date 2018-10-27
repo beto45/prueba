@@ -9,9 +9,9 @@
 
 **Actores secundarios**: Alumno
 
-**Precondiciones**
-   · Se ha debido introducir con anterioridad los datos requeridos para la búsqueda
-   · El alumno debe de existir
+**Precondiciones**:
+   1. Se ha debido introducir con anterioridad los datos requeridos para la búsqueda
+   2. El alumno debe de existir
 
 **Flujo principal**:
 

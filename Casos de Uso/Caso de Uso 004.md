@@ -9,7 +9,7 @@
 **Actores secundarios**: Alumno
 
 **Precondiciones**
-   · El/los alumno/s debe/n de existir
+   1. El/los alumno/s debe/n de existir
 
 **Flujo principal**:
 

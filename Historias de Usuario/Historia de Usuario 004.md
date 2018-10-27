@@ -14,6 +14,6 @@ Como usuario quiero poder eliminar los datos de un Alumno
 
 ---
 
-··Quiero poder eliminar cualquier alumno
+· Quiero poder eliminar cualquier alumno
 
 ---
