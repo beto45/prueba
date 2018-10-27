@@ -7,6 +7,7 @@
 Como usuario quiero poder buscar los datos de un Alumno
 
 **Prioridad**: 3
+
 ----
 
 **(REVERSO)**
